@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\garar\\desktop\\windowsformsapp1\\windowsformsapp1\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\garar\\desktop\\windowsformsapp1\\windowsformsapp1\\editrepairform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\editrepairform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\garar\\desktop\\windowsformsapp1\\windowsformsapp1\\addrepairform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addrepairform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\garar\\desktop\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\garar\\desktop\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\garar\\desktop\\windowsformsapp1\\windowsformsapp1\\addrepairform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAF9319B-F7E0-44B0-AB27-B1A46F10CE1B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addrepairform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizationForm.cs",
+              "DocumentMoniker": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\AuthorizationForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AuthorizationForm.cs",
+              "ToolTip": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\AuthorizationForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AuthorizationForm.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAlwJkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:06:21.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditRepairForm.cs",
+              "DocumentMoniker": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\EditRepairForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\EditRepairForm.cs",
+              "ToolTip": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\EditRepairForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\EditRepairForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:57:49.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddRepairForm.cs",
+              "DocumentMoniker": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\AddRepairForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddRepairForm.cs",
+              "ToolTip": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\AddRepairForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AddRepairForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:55:51.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddRepairForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\AddRepairForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddRepairForm.cs",
+              "ToolTip": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\AddRepairForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\AddRepairForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:55:00.107Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAOEBAAAAAAAAAAAawP0BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:26:28.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\garar\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:47:31.518Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
