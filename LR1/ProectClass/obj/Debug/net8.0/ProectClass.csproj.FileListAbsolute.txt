@@ -1,0 +1,14 @@
+H:\429196_1\сис.прог\LR1\ProectClass\bin\Debug\net8.0\ProectClass.exe
+H:\429196_1\сис.прог\LR1\ProectClass\bin\Debug\net8.0\ProectClass.deps.json
+H:\429196_1\сис.прог\LR1\ProectClass\bin\Debug\net8.0\ProectClass.runtimeconfig.json
+H:\429196_1\сис.прог\LR1\ProectClass\bin\Debug\net8.0\ProectClass.dll
+H:\429196_1\сис.прог\LR1\ProectClass\bin\Debug\net8.0\ProectClass.pdb
+H:\429196_1\сис.прог\LR1\ProectClass\obj\Debug\net8.0\ProectClass.GeneratedMSBuildEditorConfig.editorconfig
+H:\429196_1\сис.прог\LR1\ProectClass\obj\Debug\net8.0\ProectClass.AssemblyInfoInputs.cache
+H:\429196_1\сис.прог\LR1\ProectClass\obj\Debug\net8.0\ProectClass.AssemblyInfo.cs
+H:\429196_1\сис.прог\LR1\ProectClass\obj\Debug\net8.0\ProectClass.csproj.CoreCompileInputs.cache
+H:\429196_1\сис.прог\LR1\ProectClass\obj\Debug\net8.0\ProectClass.dll
+H:\429196_1\сис.прог\LR1\ProectClass\obj\Debug\net8.0\refint\ProectClass.dll
+H:\429196_1\сис.прог\LR1\ProectClass\obj\Debug\net8.0\ProectClass.pdb
+H:\429196_1\сис.прог\LR1\ProectClass\obj\Debug\net8.0\ProectClass.genruntimeconfig.cache
+H:\429196_1\сис.прог\LR1\ProectClass\obj\Debug\net8.0\ref\ProectClass.dll
